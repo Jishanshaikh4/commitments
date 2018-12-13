@@ -1,1 +1,4 @@
+You are probably thinking why so stupid. Well this is kinda stupid. But, it shows regularity and consistency for using Github.
+
 commit-1: a
+commit-2: a
