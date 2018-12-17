@@ -2,3 +2,4 @@ You are probably thinking why so stupid. Well this is kinda stupid. But, it show
 
 commit-1: a
 commit-2: a
+commit-3: a
